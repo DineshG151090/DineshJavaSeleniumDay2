@@ -11,7 +11,7 @@ public class WebTab {
 	
 	public static void main(String[] args)
 	{
-		System.setProperty("webdriver.chrome.driver", "E:\\JavaSelenium\\DineshGanesan\\SeleJava\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\JavaSelenium\\DineshGanesan\\DineshJavaSeleniumDay2\\driver\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		
