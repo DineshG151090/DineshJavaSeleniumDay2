@@ -16,7 +16,7 @@ public class WindHand {
 	public static void main(String[] args) throws AWTException, InterruptedException
 	{
 		//Set property/Headless
-		System.setProperty("webdriver.chrome.driver", "\\JavaSelenium\\DineshGanesan\\SeleDrive\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\JavaSelenium\\DineshGanesan\\DineshJavaSeleniumDay2\\driver\\chromedriver.exe");
 		//Browser launch
 		WebDriver driver = new ChromeDriver();
 		//Load url
